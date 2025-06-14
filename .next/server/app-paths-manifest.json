@@ -1,0 +1,21 @@
+{
+  "/_not-found/page": "app/_not-found/page.js",
+  "/about/page": "app/about/page.js",
+  "/booking/page": "app/booking/page.js",
+  "/contact/page": "app/contact/page.js",
+  "/gallery/page": "app/gallery/page.js",
+  "/quote/page": "app/quote/page.js",
+  "/services/page": "app/services/page.js",
+  "/page": "app/page.js",
+  "/api/contact/route": "app/api/contact/route.js",
+  "/api/quote/route": "app/api/quote/route.js",
+  "/api/booking/route": "app/api/booking/route.js",
+  "/privacy/page": "app/privacy/page.js",
+  "/services/driveway-cleaning/page": "app/services/driveway-cleaning/page.js",
+  "/services/deck-cleaning/page": "app/services/deck-cleaning/page.js",
+  "/services/oil-stain-removal/page": "app/services/oil-stain-removal/page.js",
+  "/services/house-washing/page": "app/services/house-washing/page.js",
+  "/services/siding-cleaning/page": "app/services/siding-cleaning/page.js",
+  "/services/roof-cleaning/page": "app/services/roof-cleaning/page.js",
+  "/terms/page": "app/terms/page.js"
+}
